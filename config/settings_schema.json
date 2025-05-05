@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Theme settings",
+    "settings": [
+      {
+        "type": "text",
+        "id": "announcement_text",
+        "label": "Announcement Text",
+        "default": "Welcome to Super Ego!"
+      }
+    ]
+  }
+]
